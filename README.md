@@ -18,7 +18,7 @@
 - 📫 How to reach me **arpanmukherjee211@gmail.com**
 
 - ⚡ Fun fact **Aspiring to become a DSA expert!!😆😆**
-<img align="right" alt="Coding" width="400" src="https://github.com/Arpan110204/Arpan110204/assets/131811340/477e29a2-ea41-43bc-b8b4-2ee0fdd82d28">
+<img align="right" alt="Coding" width="500" src="https://github.com/Arpan110204/Arpan110204/assets/131811340/477e29a2-ea41-43bc-b8b4-2ee0fdd82d28">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@iam_arpanx11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iam_arpanx11" height="30" width="40" /></a>
