@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="4500" src="https://github.com/Arpan110204/Arpan110204/assets/131811340/8e654e9d-c2b0-4d3b-813e-b96aba9bd452">
 <h1 align="left">Hi 👋, I'm Arpan Mukherjee</h1>
-<h3 align="left">A passionate Software Engineer and coder from India</h3>
+<h3 align="left">I am a 2nd year Computer Science Engineering student. Aspiring to be DSA expert !!</h3>
 <img align="center" alt="Coding" width="500" src="https://github.com/Arpan110204/Arpan110204/assets/131811340/1e52a7ae-b749-4aa3-8276-8d8d14348548">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan110204&label=Profile%20views&color=0e75b6&style=flat" alt="arpan110204" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **arpanmukherjee211@gmail.com**
 
-- ⚡ Fun fact **Aspiring to become a DSA expert!!😆😆**
+- ⚡ Fun fact **The way to succeed is to double your failure rate !!😆😆**
 <img align="right" alt="Coding" width="400" src="https://github.com/Arpan110204/Arpan110204/assets/131811340/0b07bdb1-f232-4b2f-bb03-b011e005f40e">
 
 <h3 align="left">Connect with me:</h3>
