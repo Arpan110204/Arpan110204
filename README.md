@@ -18,7 +18,7 @@
 - 📫 How to reach me **arpanmukherjee211@gmail.com**
 
 - ⚡ Fun fact **The way to succeed is to double your failure rate !!😆😆**
-<img align="right" alt="Coding" width="400" src="https://github.com/Arpan110204/Arpan110204/assets/131811340/0b07bdb1-f232-4b2f-bb03-b011e005f40e">
+<img align="right" alt="Coding" width="400" src="https://github.com/Arpan110204/Arpan110204/assets/131811340/388e589d-918a-4480-ade4-066235a2b52b">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
